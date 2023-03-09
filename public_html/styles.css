@@ -1,4 +1,21 @@
-{ background
-  background-color: #23451e }
-
-
+body { /* color green */
+  background-color: #23451e;
+}
+#p.cool { /* do class: p.cool later */
+  border: dashed;
+  background color: #FFFFFF;
+}
+body { 
+  margin: 15px;
+}
+img { 
+  border: dashed;
+}
+#h1.cool { /* do class: p.cool later */
+  padding: 50px;
+  border: solid;
+}
+a { /* color white */
+ color: #FFFFFF;
+}
+.button
