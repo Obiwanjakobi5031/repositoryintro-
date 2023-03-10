@@ -18,7 +18,7 @@ img {
 a:link { /* color white */
  color: #FFFFFF;
 }
-a:visited {
+a:visited { /* color lightgreen */
   color: #90EE90;
   
 }
