@@ -3,7 +3,7 @@ body { /* color green */
 }
 #p.cool { /* do class: p.cool later */
   border: solid;
-  background color: #FFFFFF; /* color white */
+  background-color: #FFFFFF; /* color white */
 }
 body { 
   margin: 15px;
@@ -20,9 +20,11 @@ a:link { /* color white */
 }
 a:visited { /* color lightgreen */
   color: #90EE90;
-  
 }
-.button {
+a:hover { /* color crimson */
+  color: #900C3F;
+}
+button {
   background-color: #23451e; /* color green */
   border: solid; 
   color: #FFFFFF;
